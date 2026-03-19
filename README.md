@@ -46,6 +46,6 @@ Some things I’ve been working on lately:
 ---
 
 ## Random Data
-- I have two cats
-- I love old cars from 1950 to 1990
+- I like cats and dogs
+- I love cars from 1950 to 1990
 - **Hobbies:** Video games, Gym and Reading
