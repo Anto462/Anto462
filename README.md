@@ -4,7 +4,7 @@ Software developer and kinda tech enthusiast from Costa Rica 🇨🇷
 
 I enjoy building **useful tools, creative interfaces and experimental projects**, combining development, networking knowledge and automation.
 
-I also have **3 years of experience working in ISP network operations**, supporting corporate clients and troubleshooting network infrastructure across multiple regions.
+I also have **experience working in ISP network operations**, supporting corporate clients and troubleshooting network infrastructure across multiple regions.
 
 ---
 > I build tools because I believe technology should give people back what matters most: time...
