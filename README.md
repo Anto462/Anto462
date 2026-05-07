@@ -48,8 +48,9 @@ I'm a developer and tech enthusiast who enjoys the intersection of **expresive i
 ### ⚡︎ GitHub Activity ⚡︎
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anto462&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anto462&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Langs" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anto462&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="400" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anto462&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Langs" width="350" />
 </div>
 
 ---
